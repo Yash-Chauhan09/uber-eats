@@ -17,7 +17,7 @@ const ResturantInfo = () => (
   <View
     style={{
       height: 25,
-      backgroundColor: "#eee",
+      backgroundColor: "#fff",
       flexDirection: "row",
       justifyContent: "space-between",
       alignItems: "center",
@@ -33,7 +33,7 @@ const ResturantInfo = () => (
         width: 25,
         height: 25,
         borderRadius: "50%",
-        backgroundColor: "#fff",
+        backgroundColor: "#eee",
         justifyContent: "center",
         alignItems: "center",
       }}
